@@ -1,2 +1,2 @@
-# home-page
-My testing and receiving page. ☕
+# home-page ☕
+My testing and receiving page.
